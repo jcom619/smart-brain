@@ -1,3 +1,8 @@
 .Tilt {
-  background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%); /* w3c */
+  background-color: #00516e;
+  background-image: url("https://www.transparenttextures.com/patterns/exclusive-paper.png");
+}
+.logo {
+  display: flex;
+  justify-content: center;
 }
